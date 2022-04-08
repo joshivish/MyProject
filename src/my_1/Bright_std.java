@@ -18,5 +18,6 @@ public class Bright_std {
 		System.out.println("Mobile Number is "+Mob_no);
 		System.out.println("Hobby of "+Name+ " is " +hobby);
 		System.out.println("=========================");
+		System.out.println("Updated code push to repository");
 }
 }
